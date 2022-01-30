@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Recipe-App-Edemam/static/css/main.3cfbfa2a.chunk.css",
+    "main.js": "/React-Recipe-App-Edemam/static/js/main.66cc7e7a.chunk.js",
+    "main.js.map": "/React-Recipe-App-Edemam/static/js/main.66cc7e7a.chunk.js.map",
+    "runtime-main.js": "/React-Recipe-App-Edemam/static/js/runtime-main.4eb0d6ba.js",
+    "runtime-main.js.map": "/React-Recipe-App-Edemam/static/js/runtime-main.4eb0d6ba.js.map",
+    "static/js/2.1b8ea752.chunk.js": "/React-Recipe-App-Edemam/static/js/2.1b8ea752.chunk.js",
+    "static/js/2.1b8ea752.chunk.js.map": "/React-Recipe-App-Edemam/static/js/2.1b8ea752.chunk.js.map",
+    "index.html": "/React-Recipe-App-Edemam/index.html",
+    "precache-manifest.6afb434555aad69903ad41d084f21dff.js": "/React-Recipe-App-Edemam/precache-manifest.6afb434555aad69903ad41d084f21dff.js",
+    "service-worker.js": "/React-Recipe-App-Edemam/service-worker.js",
+    "static/css/main.3cfbfa2a.chunk.css.map": "/React-Recipe-App-Edemam/static/css/main.3cfbfa2a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eb0d6ba.js",
+    "static/js/2.1b8ea752.chunk.js",
+    "static/css/main.3cfbfa2a.chunk.css",
+    "static/js/main.66cc7e7a.chunk.js"
+  ]
+}
